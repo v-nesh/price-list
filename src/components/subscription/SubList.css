@@ -41,3 +41,11 @@ main {
     flex-direction: column;
   }
 }
+
+.toggled {
+  background-color: rgba(95, 201, 52, 1);
+}
+
+.move {
+  transform: translateX(22px);
+}
